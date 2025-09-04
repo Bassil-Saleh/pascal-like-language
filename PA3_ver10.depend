@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1701473397 source:c:\cs280\pa3_ver10\lex.cpp
+	"lex.h"
+	<fstream>
+	<cctype>
+
+1701026191 c:\cs280\pa3_ver10\lex.h
+	<string>
+	<iostream>
+	<map>
+
+1701478573 source:c:\cs280\pa3_ver10\parserinterp.cpp
+	"parserInterp.h"
+
+1701026191 c:\cs280\pa3_ver10\parserinterp.h
+	<iostream>
+	"lex.h"
+	"val.h"
+
+1701026191 c:\cs280\pa3_ver10\val.h
+	<iostream>
+	<string>
+	<queue>
+	<map>
+	<iomanip>
+	<stdexcept>
+	<cmath>
+	<sstream>
+
+1701026191 source:c:\cs280\pa3_ver10\prog3.cpp
+	<iostream>
+	<fstream>
+	"parserInterp.h"
+
+1701470042 source:c:\cs280\pa3_ver10\val.cpp
+	"val.h"
+	<cmath>
+	<limits>
+
+1701476997 source:c:\users\saleh\documents\school\njit\fall_2023\cs280\pa assignments\pa3\pa3_ver10\lex.cpp
+	"lex.h"
+	<fstream>
+	<cctype>
+
+1701029791 c:\users\saleh\documents\school\njit\fall_2023\cs280\pa assignments\pa3\pa3_ver10\lex.h
+	<string>
+	<iostream>
+	<map>
+
+1701482518 source:c:\users\saleh\documents\school\njit\fall_2023\cs280\pa assignments\pa3\pa3_ver10\parserinterp.cpp
+	"parserInterp.h"
+
+1701029791 c:\users\saleh\documents\school\njit\fall_2023\cs280\pa assignments\pa3\pa3_ver10\parserinterp.h
+	<iostream>
+	"lex.h"
+	"val.h"
+
+1701029791 c:\users\saleh\documents\school\njit\fall_2023\cs280\pa assignments\pa3\pa3_ver10\val.h
+	<iostream>
+	<string>
+	<queue>
+	<map>
+	<iomanip>
+	<stdexcept>
+	<cmath>
+	<sstream>
+
+1701029791 source:c:\users\saleh\documents\school\njit\fall_2023\cs280\pa assignments\pa3\pa3_ver10\prog3.cpp
+	<iostream>
+	<fstream>
+	"parserInterp.h"
+
+1701473642 source:c:\users\saleh\documents\school\njit\fall_2023\cs280\pa assignments\pa3\pa3_ver10\val.cpp
+	"val.h"
+	<cmath>
+	<limits>
+
